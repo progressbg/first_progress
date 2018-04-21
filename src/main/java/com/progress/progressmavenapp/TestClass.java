@@ -12,7 +12,11 @@ package com.progress.progressmavenapp;
 public class TestClass {
     public static void main(String... args){
         System.out.println("Hello Maven..");
-        
+       
         System.out.println("Hello from branch Task2");
+          System.out.println("Hello from branch Task2");
+          System.out.println("Hello from branch Task2");
+        
+        
     }
 }
